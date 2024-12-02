@@ -1,1 +1,55 @@
- 
+ /*User Story #1*/
+	h2, h3, h4, h5 {
+ 	color: #05891b;
+ 	font-family: futura, sans-serif;
+  }
+
+  /*User Story #2*/
+  table {
+  	border-collapse: collapse;
+  	width: 100;
+  }
+  th {
+  	font-weight: bold;
+  	background-color: #fff3b5;
+  	text-align: center;
+  }
+  td, th {
+  	border: 5px solid #000000;
+  	text-align: center;
+  	padding: 5px;
+  }
+
+  /*User Story #3*/
+  ul {
+  	list-style-type: square;
+  }
+
+  /*User Story #4*/
+  a:hover {
+  	background-color: #45cdff;
+  	text-decoration: none;
+  }
+
+  /*User Story #5*/
+  blockquote {
+  	background-color: #103011;
+  	color: #0fba15;
+  	padding: 10px;
+  }
+
+  /*User Story #6*/
+
+
+
+
+
+
+
+
+
+  /*User Story #7*/
+  .checkbox-grid {
+  	list-style-type: none;
+  }
+
